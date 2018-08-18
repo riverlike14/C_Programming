@@ -1,9 +1,4 @@
 #include <stdio.h>
-// ung
-// ung 23
-// usdjflsdajl
-//
-
 
 int AbsoCompare(int num1, int num2);
 int GetAbsoValue(int num);
