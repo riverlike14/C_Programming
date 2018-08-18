@@ -1,6 +1,5 @@
 #include <stdio.h>
-//jang
-//dddd
+
 int AbsoCompare(int num1, int num2);
 int GetAbsoValue(int num);
 
